@@ -25,7 +25,7 @@
  
 </div>
 
- ##
+##
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karenreis7&show_icons=true&locale=en&layout=compact" alt="karenreis7"></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karenreis7&show_icons=true&locale=en" alt="karenreis7"></p>
