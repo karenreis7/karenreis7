@@ -38,6 +38,7 @@ Estou cursando o 2º semestre de <b>Engenharia de Software</b>. <a href="mailto:
 - 👾 Meus hobbies são: 
   - Estudar;
   - Ler livros;
+  - Amo Café; 
   - Ouvir musicas; 
   - Jogar no tempo livre;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
