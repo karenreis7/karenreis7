@@ -24,7 +24,7 @@ Estou cursando o 2º semestre de <b>Engenharia de Software</b>. <a href="mailto:
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/94981827/150028416-d9c45f11-5c06-4305-82b8-c699e876f7fd.png" width="350px" />
 
 - 👩‍💻 Estou concluindo o bootcamp **Inter Frontend Developer** da DIO.;
 - Possuou alguns **certificados** adquiridos na Plataforma:
