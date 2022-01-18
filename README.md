@@ -41,7 +41,6 @@ Estou cursando o 2º semestre de <b>Engenharia de Software</b>. <a href="mailto:
   - Ouvir musicas; 
   - Jogar no tempo livre;
 - 💬 Fique a vontade para me chamar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para karenreis7@hotmail.com; 
 
 
 **Linguagens e ferramentas:**  
@@ -51,12 +50,10 @@ Estou cursando o 2º semestre de <b>Engenharia de Software</b>. <a href="mailto:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="40" height="40" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=karenreis7&show_icons=true&locale=en" alt="karenreis7" />
 </p>
-<p>&nbsp;
-</p>
+
 
 
 
