@@ -26,7 +26,7 @@ Estou cursando o 2º semestre de <b>Engenharia de Software</b>. <a href="mailto:
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/94981827/150028416-d9c45f11-5c06-4305-82b8-c699e876f7fd.png" width="350px" />
 
-- 👩‍💻 Estou concluindo o bootcamp **Inter Frontend Developer** da DIO.;
+- 👩‍💻 Estou concluindo o bootcamp **Inter Frontend Developer** na DIO.;
 - Possuou alguns **certificados** adquiridos na Plataforma:
   - Lógica de Programação Essencial
   - Estrutura de Dados e Algoritmos
