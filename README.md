@@ -14,7 +14,7 @@ Me chamo <b> Karen Reis</b>.
 </p>
 <p align="left" >
 Atualmente moro em Aracaju/Se.<br />
-Estou cursando o 2º semestre de <b>Engenharia de Software</b>. <a href="mailto:karenreis7@hotmail.com" alt="Outlook">
+Estou cursando o 3º semestre de <b>Engenharia de Software</b>. <a href="mailto:karenreis7@hotmail.com" alt="Outlook">
   <img align="right" src="https://img.icons8.com/fluency-systems-filled/48/000000/ms-outlook.png" width="48px" height="48px">
 </a><br /></br> 
 </p>
@@ -26,7 +26,7 @@ Estou cursando o 2º semestre de <b>Engenharia de Software</b>. <a href="mailto:
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/94981827/150028416-d9c45f11-5c06-4305-82b8-c699e876f7fd.png" width="350px" />
 
-- 👩‍💻 Estou concluindo o bootcamp **Take Blip Web Developer** na DIO.;
+- 👩‍💻 Estou concluindo o bootcamp **Santander Bootcamp Fullstack Developer** na DIO.;
 - Possuou alguns **certificados** adquiridos na Plataforma:
   - Lógica de Programação Essencial
   - Estrutura de Dados e Algoritmos
@@ -35,8 +35,7 @@ Estou cursando o 2º semestre de <b>Engenharia de Software</b>. <a href="mailto:
   - Criação de websites com HTML5 e CSS3
   - Introdução ao JavaScript
 - 💼 Sou apaixonada por tecnologia e estou sempre estudando e evoluindo na minha carreira;
-- 👾 Meus hobbies são: 
-  - Estudar;
+- 👾 Meus hobbies são:
   - Ler livros;
   - Amo Café; 
   - Ouvir musicas; 
