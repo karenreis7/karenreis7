@@ -13,7 +13,7 @@
 Me chamo <b> Karen Reis</b>.
 </p>
 <p align="left" >
-<b>Bacharel em Engenharia de Software atualemnte no 3º semestre</b>. <a href="mailto:karenreis7@hotmail.com" alt="Outlook">
+<b>Bacharel em Engenharia de Software atualemnte no 4º semestre</b>. <a href="mailto:karenreis7@hotmail.com" alt="Outlook">
   <img align="right" src="https://img.icons8.com/fluency-systems-filled/48/000000/ms-outlook.png" width="48px" height="48px">
 </a><br /></br> 
 </p>
